@@ -1,0 +1,28 @@
+# Специфичные логи моделей из нашего стека
+catboost_info/
+lightning_logs/
+
+# Временные файлы и кэш Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+*/__pycache__/
+*.pyc
+
+# Окружения разработки и виртуальные среды Anaconda/Pipenv
+.env
+.venv
+env/
+venv/
+ENV/
+.conda/
+
+# Логи операционных систем и IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Большие бинарные файлы
+*.pkl
+*.joblib
