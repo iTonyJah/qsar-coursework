@@ -5,8 +5,11 @@
 * [02_Regression_pIC50.ipynb](./02_regression_pic50.ipynb) — Прогнозирование биологической активности.
 * [03_Regression_pCC50.ipynb](./03_regression_pcc50.ipynb) — Прогнозирование цитотоксичности.
 * [04_Regression_log10_SI.ipynb](./04_regression_log_si.ipynb) — Прогнозирование селективности.
-* [05-08_Classification_Tasks.ipynb](./05_class_ic50_median.ipynb) — Задачи бинарной классификации (медианы и поиск лидеров SI > 8).
-
+* [05_Classification_Tasks IC50 median.ipynb](./05_class_ic50_median.ipynb) — Задачи бинарной классификации медианы.
+* [06_Classification_Tasks CC50 median.ipynb](./06_class_cc50_median.ipynb) — Задачи бинарной классификации медианы.
+* [07_Classification_Tasks SI median.ipynb](./07_class_si_median.ipynb) — Задачи бинарной классификации медианы.
+* [08_Classification_Tasks SI above 8.ipynb](./08_class_si_above_8.ipynb) — Задачи бинарной классификации поиска лидеров SI > 8.
+ 
 ## 1. Введение и постановка задачи
 В рамках данного R&D-проекта была решена задача компьютерного прогнозирования (*in silico*) ключевых фармакологических свойств молекул: биологической активности (`IC50`), цитотоксичности (`CC50`) и индекса селективности (`SI`). 
 
