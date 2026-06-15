@@ -1,7 +1,7 @@
 # 🔬 Финальный аналитический отчёт по проекту QSAR-моделирования
 
 ### 📂 Структура проекта
-* [01_EDA_and_Preprocessing.ipynb](./coursework_ml-eda.ipynb) — Разведочный анализ и очистка данных.
+* [01_EDA_and_Preprocessing.ipynb](./01_eda_and_preprocessing.ipynb) — Разведочный анализ и очистка данных.
 * [02_Regression_pIC50.ipynb](./02_regression_pic50.ipynb) — Прогнозирование биологической активности.
 * [03_Regression_pCC50.ipynb](./03_regression_pcc50.ipynb) — Прогнозирование цитотоксичности.
 * [04_Regression_log10_SI.ipynb](./04_regression_log_si.ipynb) — Прогнозирование селективности.
